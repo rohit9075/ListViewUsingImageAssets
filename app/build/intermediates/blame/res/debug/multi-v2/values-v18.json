@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Android\\Sqlite Exercies\\My Android Projects\\ListViewUsingImageAssets\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+            "outputFile": "C:\\Users\\Rohit Kumar\\Desktop\\Android_demo\\ListViewUsingImageAssets\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Rohit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\6a6c6d317b4d13fef63eae8ce51e064f\\res\\values-v18\\values-v18.xml",
+                    "source": "C:\\Users\\Rohit Kumar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\44b118c9ac7669ae6e1ac3f758a88801\\res\\values-v18\\values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

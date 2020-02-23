@@ -10,8 +10,8 @@ public class DataItem {
     private double price;
     private String image;
 
-    public DataItem() {
-    }
+//    public DataItem() {
+//    }
 
     public DataItem(String itemId, String itemName, String description, String category, int sortPosition, double price, String image) {
         this.itemId = itemId;
